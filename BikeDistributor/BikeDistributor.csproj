@@ -39,7 +39,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IProduct.cs" />
     <Compile Include="Order.cs" />
     <Compile Include="Bike.cs" />
     <Compile Include="LineItemDiscountRule.cs" />
